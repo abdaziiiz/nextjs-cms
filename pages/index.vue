@@ -2,7 +2,7 @@
   <div class="main text-center flex flex-col items-center justify-center">
     <!-- <logo /> -->
     <h1 class="title">Nuxt — Tailwind — Netlify CMS</h1>
-    <h2 class="subtitle">Boilerplate</h2>
+    <h2 class="subtitle">Latihan</h2>
   </div>
 </template>
 
@@ -15,8 +15,8 @@ export default {
   // },
   head() {
     return {
-      script: [{ src: 'https://identity.netlify.com/v1/netlify-identity-widget.js' }]
+      script: [{ src: 'https://identity.netlify.com/v1/netlify-identity-widget.js' }],
     }
-  }
+  },
 }
 </script>
